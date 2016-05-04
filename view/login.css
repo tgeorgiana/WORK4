@@ -1,0 +1,23 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+body {
+	background-image: url(http://ideialbastre.ro/wp-content/uploads/2015/05/white-backgrounds-6-hd-background-and-wallpaper.jpg);
+	background-size: 100%;
+	
+}
+
+.login {
+
+	width: 400px;
+	margin:200px 600px;
+	font-size:20;
+	border: 3px solid black;
+	line-height: 200%;
+	height: 180px;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+
